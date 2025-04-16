@@ -109,6 +109,15 @@ Estas conclusiones pueden servir como base para decisiones estratégicas enfocad
 * `Jupyter Notebook`
 * `Git and GitHub`
 
+En caso de encontrarse con un error al correr el notebook debido a que alguna de las librerías no está instalada, puede ejecutar el siguiente comando en una primera celda del notebook:
+
+`!pip install -r requirements.txt`
+
+o desde la terminal:
+
+`pip install -r requirements.txt`
+
+Esto ejecutará la instalación de todas las librerías necesarias para el proyecto con sus respectivas versiones presentes en el archivo  **requirements.txt**📄
 
 ## 7. Agradecimientos 🤝
 
