@@ -24,10 +24,10 @@ A lo largo del análisis surgen observaciones relevantes que permiten no solo id
 
 El proyecto concluye con un informe detallado, donde se presentan las principales conclusiones y se brinda una recomendación clara y justificada al propietario sobre qué tienda vender.
 
-***Nota: 
-El proyecto cuenta con mapas interactivos creados con la biblioteca `folium`, por lo que el navegador de GitHub no permite su visualización. 
-Para esto, he creado una versión del mismo llamada `challenge_alura_stores_liviano.ipynb`📄 que tiene comentadas las celdas de codigo de la sección `Análisis Geoespacial Segmentado por Ciudad y Tienda el proyecto deberá ser`.
-Para visualizar el proyecto completo, se debe descargar y abiert el archivo `challenge_alura_stores.ipynb`📄 de forma local o en `Google Colab`.***
+***Nota:<br>
+El proyecto cuenta con mapas interactivos creados con la biblioteca `folium`, por lo que el navegador de GitHub no permite su visualización.<br>
+Para esto, he creado una versión del mismo llamada `challenge_alura_stores_liviano.ipynb`📄 que tiene comentadas las celdas de codigo para la creación de mapas interactivos.<br>
+Para visualizar el proyecto completo, se debe descargar y abrir el archivo `challenge_alura_stores.ipynb`📄 de forma local o en `Google Colab`.***
 
 ## 2. Acceso al proyecto 📂
 
