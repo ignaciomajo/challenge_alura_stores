@@ -3,9 +3,6 @@
 ![portadaAluraStores](https://github.com/user-attachments/assets/bc1511de-815e-42e5-837c-fd1d236c58f6)
 
 
-
-
-
 ## Índice 📋
 
 1. Descripción del proyecto.
@@ -17,11 +14,17 @@
 
 ## 1. Descripción del proyecto 📚
 
-<br><br><br><br><br>
+Este proyecto se basa en un escenario de negocio en el cual el propietario de una empresa de artículos multi-rubro busca evaluar el desempeño de sus cuatro tiendas físicas, con el objetivo de decidir cuál de ellas debería ser vendida.
+
+Para ello, se realiza un análisis de datos exhaustivo, considerando múltiples aspectos que influyen en el rendimiento de cada tienda, tales como facturación, satisfacción de los clientes, ubicación geográfica, entre otros.
+
+A lo largo del análisis surgen observaciones relevantes que permiten no solo identificar la tienda menos eficiente, sino también detectar oportunidades de mejora y áreas que requieren intervención estratégica.
+
+El proyecto concluye con un informe detallado, donde se presentan las principales conclusiones y se brinda una recomendación clara y justificada al propietario sobre qué tienda vender.
 
 ## 2. Acceso al proyecto 📂
 
-Para obtener el proyecto tienes dos opciones:
+Para obtener el proyecto existen dos opciones:
 
 1. Clonar el repositorio utilizando la línea de comandos. Solo debes dirigirte al directorio donde deseas clonar el mismo e ingresar el comando:
    `git clone https://github.com/ignaciomajo/******`
