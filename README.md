@@ -1,4 +1,4 @@
-# Proyecto: Alura Stores
+# Proyecto: Challenge Alura Stores
 
 ![portadaAluraStores](https://github.com/user-attachments/assets/bc1511de-815e-42e5-837c-fd1d236c58f6)
 
