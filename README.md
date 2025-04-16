@@ -117,7 +117,7 @@ o desde la terminal:
 
 `pip install -r requirements.txt`
 
-Esto ejecutará la instalación de todas las librerías necesarias para el proyecto con sus respectivas versiones presentes en el archivo  **requirements.txt**📄
+Esto ejecutará la instalación de todas las librerías necesarias para el proyecto con sus respectivas versiones presentes en el archivo  **requirements.txt**📄 que se encuentra en el respositorio.
 
 ## 7. Agradecimientos 🤝
 
