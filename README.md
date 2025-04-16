@@ -9,8 +9,8 @@
 2. Acceso al proyecto
 3. Etapas del proyecto.
 4. Descripción de los datos
-5. Tecnologías utilizadas.
-6. Resultados y conclusiones
+5. Resultados y conclusiones
+6. Tecnologías utilizadas.
 7. Agradecimientos.
 8. Desarrollador del proyecto.
 
@@ -80,19 +80,7 @@ En cada uno de ellos, encontramos los siguientes campos referente a las ventas d
 * `Cantidad de cuotas`
 * `lat` y `lon`: Coordenadas de la ciudad destino del envío.
 
-## 5. Tecnologías utilizadas 🛠️
-
-![Static Badge](https://img.shields.io/badge/Python-3.11.7-blue) <br>
-![Static Badge](https://img.shields.io/badge/Numpy-1.26.4-green) ![Static Badge](https://img.shields.io/badge/pandas-2.2.2-green) ![Static Badge](https://img.shields.io/badge/matplotlib-3.10.0-green)
-![Static Badge](https://img.shields.io/badge/seaborn-0.13.2-green) ![Static Badge](https://img.shields.io/badge/folium-0.19.5-green) ![Static Badge](https://img.shields.io/badge/scikit_learn-1.5.2-green)
-
-* `Jupyter Notebook`
-* `Git and GitHub`
-* ``
-* ``
-* ``
-
-## 6. Resultados y Conclusiones ✍️
+## 5. Resultados y Conclusiones ✍️
 
 Algunas observaciones clave:
 
@@ -109,6 +97,18 @@ Algunas observaciones clave:
 Estas conclusiones pueden servir como base para decisiones estratégicas enfocadas en mejorar la experiencia del cliente, reducir costos logísticos y expandirse de forma más inteligente.
 
 ***Nota:** Para conocer la tienda recomendada para su venta y su justificación detallada, consultar el informe final incluido en el proyecto.*
+
+
+
+## 6. Tecnologías utilizadas 🛠️
+
+![Static Badge](https://img.shields.io/badge/Python-3.11.7-blue) <br>
+![Static Badge](https://img.shields.io/badge/Numpy-1.26.4-green) ![Static Badge](https://img.shields.io/badge/pandas-2.2.2-green) ![Static Badge](https://img.shields.io/badge/matplotlib-3.10.0-green)
+![Static Badge](https://img.shields.io/badge/seaborn-0.13.2-green) ![Static Badge](https://img.shields.io/badge/folium-0.19.5-green) ![Static Badge](https://img.shields.io/badge/scikit_learn-1.5.2-green)
+
+* `Jupyter Notebook`
+* `Git and GitHub`
+
 
 ## 7. Agradecimientos 🤝
 
