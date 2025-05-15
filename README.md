@@ -62,7 +62,7 @@ Esto descargará un archivo comprimido `.zip`, que podrás alojar en el director
 6. Análisis Geoespacial  
 7. Conclusiones y recomendación
 
-## 4. Descripción de los datos
+## 4. Descripción de los datos 📊
 
 La base de datos utilizada para el proyecto está compuesta por 4 archivos csv, que se encuentran dentro del repositorio:
 
